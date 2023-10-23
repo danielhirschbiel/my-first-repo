@@ -9,3 +9,7 @@
 1. cars
 2. trucks
 3. boats
+
+**hammer**
+``goober``
+~~AAAAAAA~~
